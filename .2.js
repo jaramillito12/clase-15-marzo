@@ -1,0 +1,1 @@
+let numero(prompt("digite su numero"))
